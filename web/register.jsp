@@ -17,6 +17,7 @@ $(document).ready(function(){
 			$('input[name="id"]').focus();
 			return;
 		}
+		
 		if(pwd == null || pwd == ''){
 			alert('Madatory Filed !');
 			$('input[name="pwd"]').focus();
