@@ -11,5 +11,6 @@
 <div id="main_center">
 <h1>${rid }ดิ register OK</h1>
 </div>
+
 </body>
 </html>

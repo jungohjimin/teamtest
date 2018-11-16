@@ -15,6 +15,7 @@ $(document).ready(function(){
         $('#product_register').submit();
     });
 });
+
 </script>
 </head>
 <body>
