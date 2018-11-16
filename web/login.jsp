@@ -26,6 +26,7 @@ $(document).ready(function(){
 });
 </script>
 
+
 <div id="main_center">
 <h1>Login Page</h1>
 <form id="login_form">
